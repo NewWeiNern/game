@@ -1,0 +1,212 @@
+[{
+    "name" : "Apple",
+    "type" : ["fruit","healthy"]
+},
+{
+    "name" : "Avocado",
+    "type" : ["fruit","healthy"]
+},
+{
+    "name" : "Bacon",
+    "type" : ["meat", "unhealthy"]
+},
+{
+    "name" : "Bread",
+    "type" : ["staple"]
+},
+{
+    "name" : "Brownie",
+    "type" : []
+},
+{
+    "name" : "Cheese",
+    "type" : []
+},
+{
+    "name" : "Cherry",
+    "type" : []
+},
+{
+    "name" : "Chicken",
+    "type" : []
+},
+{
+    "name" : "ChickenLeg",
+    "type" : []
+},
+{
+    "name" : "Cookie",
+    "type" : []
+},
+{
+    "name" : "DragonFruit",
+    "type" : []
+},
+{
+    "name" : "Eggplant",
+    "type" : []
+},
+{
+    "name" : "Eggs",
+    "type" : []
+},
+{
+    "name" : "Fish",
+    "type" : []
+},
+{
+    "name" : "FishFillet",
+    "type" : []
+},
+{
+    "name" : "FishSteak",
+    "type" : []
+},
+{
+    "name" : "Honey",
+    "type" : []
+},
+{
+    "name" : "Honeycomb",
+    "type" : []
+},
+{
+    "name" : "Jam",
+    "type" : []
+},
+{
+    "name" : "Jerky",
+    "type" : []
+},
+{
+    "name" : "Lemon",
+    "type" : []
+},
+{
+    "name" : "Marmalade",
+    "type" : []
+},
+{
+    "name" : "MelonCantaloupe",
+    "type" : []
+},
+{
+    "name" : "MelonHoneydew",
+    "type" : []
+},
+{
+    "name" : "MelonWater",
+    "type" : []
+},
+{
+    "name" : "Olive",
+    "type" : []
+},
+{
+    "name" : "Onion",
+    "type" : []
+},
+{
+    "name" : "Peach",
+    "type" : []
+},
+{
+    "name" : "PepperGreen",
+    "type" : []
+},
+{
+    "name" : "Pepperoni",
+    "type" : []
+},
+{
+    "name" : "PepperRed",
+    "type" : []
+},
+{
+    "name" : "Pickle",
+    "type" : []
+},
+{
+    "name" : "PickledEggs",
+    "type" : []
+},
+{
+    "name" : "PieApple",
+    "type" : []
+},
+{
+    "name" : "PieLemon",
+    "type" : []
+},
+{
+    "name" : "PiePumpkin",
+    "type" : []
+},
+{
+    "name" : "Pineapple",
+    "type" : []
+},
+{
+    "name" : "Potato",
+    "type" : []
+},
+{
+    "name" : "PotatoRed",
+    "type" : []
+},
+{
+    "name" : "Pretzel",
+    "type" : []
+},
+{
+    "name" : "Ribs",
+    "type" : []
+},
+{
+    "name" : "Roll",
+    "type" : []
+},
+{
+    "name" : "Sardines",
+    "type" : []
+},
+{
+    "name" : "Sashimi",
+    "type" : []
+},
+{
+    "name" : "Sausages",
+    "type" : []
+},
+{
+    "name" : "Shrimp",
+    "type" : []
+},
+{
+    "name" : "Steak",
+    "type" : []
+},
+{
+    "name" : "Strawberry",
+    "type" : []
+},
+{
+    "name" : "Sushi",
+    "type" : []
+},
+{
+    "name" : "Tart",
+    "type" : []
+},
+{
+    "name" : "Tomato",
+    "type" : []
+},
+{
+    "name" : "Turnip",
+    "type" : []
+},
+{
+    "name" : "Waffles",
+    "type" : []
+}]
