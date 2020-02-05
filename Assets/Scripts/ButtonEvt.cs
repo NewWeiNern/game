@@ -17,4 +17,10 @@ public class ButtonEvt : MonoBehaviour
     public void Quit(){
         Application.Quit();
     }
+    public void Start(){
+        Time.timeScale = 1f;
+    }
+    public void HideObject(){
+        gameObject.transform.parent.gameObject.transform.parent.gameObject.SetActive(false);
+    }
 }

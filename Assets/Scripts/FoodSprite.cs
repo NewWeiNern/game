@@ -1,11 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.IO;
 
 public class FoodSprite : MonoBehaviour {
     private Sprite sprite;
-    private string jsonpath = "assets/json/data.json";
     public enum FoodStatus{
         None,
         Purchased,
@@ -23,7 +21,6 @@ public class FoodSprite : MonoBehaviour {
     }
     private void OnMouseDown(){
         Discard();
-        GetItem();
     }
     /**
     * Set status of the food item to purchased
@@ -59,12 +56,5 @@ public class FoodSprite : MonoBehaviour {
         Resources.UnloadAsset(sprite);
         list.Remove(obj);
         Destroy(obj);
-    }
-
-    private void GetItem(){
-        using(StreamReader stream = new StreamReader(jsonpath)){
-            string json = stream.ReadToEnd();
-            FoodItems util = JsonUtility.FromJson<FoodItems>(json);
-        }
     }
 }

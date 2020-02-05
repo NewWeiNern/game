@@ -1,6 +1,57 @@
 {
-    "items" : [{
-        "name" : "Apple",
-        "type" : ["healthy", "fruit"]
-    }]
+    "items" : [
+        {
+            "name" : "Apple",
+            "type" : ["healthy", "fruit"]            
+        },
+        {
+            "name" : "Avocado",
+            "type" : ["healthy", "fruit"]
+        },
+        {
+            "name" : "Bacon",
+            "type" : ["meat", "unhealthy"]        
+        },
+        {
+            "name" : "Bread",
+            "type" : ["staple", "healthy"]
+        },
+        {
+            "name" : "Brownie",
+            "type" : ["staple", "dessert", "unhealthy"]
+        },
+        {
+            "name" : "Cheese",
+            "type" : ["staple", "healthy", "dairy"]
+        },
+        {
+            "name" : "Cherry",
+            "type" : ["fruit", "healthy"]
+        },
+        {
+            "name" : "Chicken",
+            "type" : ["meat", "healthy"]
+        },
+        {
+            "name" : "Cookie",
+            "type" : ["dessert", "unhealthy", "dairy"]
+        },
+        {
+            "name" : "DragonFruit",
+            "type" : ["healthy", "fruit"]
+        },
+        {
+            "name" : "Eggplant",
+            "type" : ["healthy", "vegetable"]
+        },
+        {
+            "name" : "Fish",
+            "type" : ["healthy", "meat"]
+        },
+        {
+            "name" : "Jerky",
+            "type" : ["meat", "unhealthy"]
+        }
+    ]
 }
+
